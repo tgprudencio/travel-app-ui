@@ -9,6 +9,10 @@ export const COLORS = {
     lightGray: "#dedede",
     transparentBlack: 'rgba(0, 0, 0, 0.2)',
     transparentBlack1: 'rgba(0, 0, 0, 0.5)',
+    darkGreen: "#264653",
+    mediumGreen: "#52796f",
+    lightGreen: "#cbdfbd",
+    orange: "#fb8500",
 };
 export const SIZES = {
     // global sizes

@@ -24,7 +24,7 @@ const Tabs = () => {
                     left: 0,
                     right: 0,
                     elevation: 0,
-                    backgroundColor: COLORS.black,
+                    backgroundColor: COLORS.darkGreen,
                     borderTopColor: "transparent",
                     height: 100
                 }
@@ -47,7 +47,7 @@ const Tabs = () => {
                                 style={{
                                     width: 30,
                                     height: 30,
-                                    tintColor: focused ? COLORS.blue : COLORS.gray
+                                    tintColor: focused ? COLORS.orange : COLORS.mediumGreen
                                 }}
                             />
                         </View>
@@ -66,7 +66,7 @@ const Tabs = () => {
                                 style={{
                                     width: 30,
                                     height: 30,
-                                    tintColor: focused ? COLORS.blue : COLORS.gray
+                                    tintColor: focused ? COLORS.orange : COLORS.mediumGreen
                                 }}
                             />
                         </View>
@@ -85,7 +85,7 @@ const Tabs = () => {
                                 style={{
                                     width: 30,
                                     height: 30,
-                                    tintColor: focused ? COLORS.blue : COLORS.gray
+                                    tintColor: focused ? COLORS.orange : COLORS.mediumGreen
                                 }}
                             />
                         </View>
@@ -104,7 +104,7 @@ const Tabs = () => {
                                 style={{
                                     width: 30,
                                     height: 30,
-                                    tintColor: focused ? COLORS.blue : COLORS.gray
+                                    tintColor: focused ? COLORS.orange : COLORS.mediumGreen
                                 }}
                             />
                         </View>
